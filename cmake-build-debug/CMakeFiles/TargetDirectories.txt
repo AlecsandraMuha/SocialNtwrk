@@ -1,0 +1,3 @@
+C:/Users/UBB-L46/OneDrive/Desktop/Muha_Alecsandra_314/cmake-build-debug/CMakeFiles/Muha_Alecsandra_314.dir
+C:/Users/UBB-L46/OneDrive/Desktop/Muha_Alecsandra_314/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/UBB-L46/OneDrive/Desktop/Muha_Alecsandra_314/cmake-build-debug/CMakeFiles/rebuild_cache.dir
